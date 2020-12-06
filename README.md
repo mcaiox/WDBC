@@ -10,4 +10,4 @@ This is my repository for my progress through Angela Yu's [Complete Web Developm
   
   
 ### Deployement
-- The site that is contained [here](https://github.com/mcaiox/WDBC/tree/main/Web%20Development/HTML%20-%20Personal%20Site) will now have a separate repository titled [cv](https://github.com/mcaiox/cv)
+- Due to the complications above, the continuation of the personal website will now have a separate repository titled [cv](https://github.com/mcaiox/cv). 
