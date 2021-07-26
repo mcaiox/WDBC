@@ -1,11 +1,38 @@
+/********************TAG SELECTORS*******************/
 p{
     color:blue;
 }
 
 h1{
     color: brown;
+    font-size: 200px;
 }
 
-img{
+/* img{
     width: 250px;
+    background-color:chartreuse ;
+} */
+
+/********************CLASS SELECTORS*******************/
+
+.biryani{
+    width:250px;
+}
+.biryani:hover{
+    border-radius: 0%;
+
+}
+
+.broccoli{
+    width:250px;
+
+}
+.circular{
+    border-radius: 100%;
+}
+
+/********************ID SELECTORS*******************/
+#heading{
+    color:blue;
+
 }
