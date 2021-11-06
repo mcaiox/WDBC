@@ -8,11 +8,11 @@ h1 {
 
 .top-container {
   background-color: #fef5ed;
-  height: 200px;
+  /* height: 200px;
   width: 200px;
   border: solid;
   border-width: 10px 10px 10px 10px;
-  padding: 20px;
+  padding: 20px; */
 }
 
 .middle-container {
@@ -20,8 +20,6 @@ h1 {
   height: 200px;
   width: 200px;
   border: solid;
-  border-width: 20px 20px 20px 20px;
-  margin-left: 260px;
 }
 
 .bottom-container {
@@ -29,6 +27,9 @@ h1 {
   height: 200px;
   width: 200px;
   border: solid;
-  border-width: 10px 10px 10px 10px;
-  margin-left: 500px;
+}
+
+.pro {
+  text-decoration: underline;
+  display: inline-block;
 }
