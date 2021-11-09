@@ -1,8 +1,8 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: "Helvetiva Neue", Helvetica, Arial, sans-serif;
 }
-
 .top-container {
   background-color: #fef5ed;
   position: relative;
