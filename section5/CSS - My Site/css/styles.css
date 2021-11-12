@@ -38,6 +38,18 @@ h3 {
   padding-top: 100px;
   line-height: 2;
 }
+.middle-container {
+  background-color: #fef5ed;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2; 
+}
+.bottom-container {
+  background-color: #fef5ed;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
 
 .pro {
   text-decoration: underline;
