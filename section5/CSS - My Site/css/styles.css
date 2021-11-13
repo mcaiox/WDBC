@@ -30,6 +30,14 @@ h3 {
 
 .coding-img {
   width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.football-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
 
 .top-container {
@@ -42,7 +50,7 @@ h3 {
   background-color: #fef5ed;
   position: relative;
   padding-top: 100px;
-  line-height: 2; 
+  line-height: 2;
 }
 .bottom-container {
   background-color: #fef5ed;
