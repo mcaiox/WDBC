@@ -50,8 +50,11 @@ h1 {
   transform: rotate(25deg);
 }
 
+/* Features Section */
+
 #features {
   background-color: #f7f7f7;
+  padding: 7% 15%;
 }
 
 h3 {
@@ -70,5 +73,16 @@ p {
 .fa-heart,
 .fa-check-circle {
   color: #ef8172;
-  margin-left: 4rem;
+  margin-bottom: 1rem;
+}
+
+.fa-check-circle:hover,
+.fa-bullseye:hover,
+.fa-heart:hover {
+  color: #ff4c68;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
 }
