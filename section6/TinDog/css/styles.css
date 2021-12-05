@@ -124,3 +124,13 @@ p {
   height: 500px;
   padding: 7% 15%;
 }
+
+/* Pricing Section */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
